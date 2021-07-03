@@ -8,7 +8,9 @@
 - JQuery
 - ReactJS
 
-:horse: I’m currently learning SCSS and practicing React and JS stuff
+:horse: I’m currently learning SCSS and practicing React/JS stuff
+
+#### :phone: You can contact me via [VK](https://vk.com/time_to_mention_me)
 
 <!--
 **Ray-Janson/Ray-Janson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
