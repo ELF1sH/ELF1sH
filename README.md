@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Igor
+# I'm front-end developer from Tomsk, Russia :ru:
+
+### :sunglasses: My Tech Stack:
+- HTML5
+- CSS3
+- JS ES6
+- JQuery
+- ReactJS
+
+:horse: I’m currently learning SCSS and practicing React and JS stuff
 
 <!--
 **Ray-Janson/Ray-Janson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
