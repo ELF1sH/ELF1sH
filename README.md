@@ -4,11 +4,12 @@
 ### :sunglasses: My Tech Stack:
 - HTML5
 - CSS3
+- SCSS
 - JS ES6
 - JQuery
 - ReactJS
 
-:horse: I’m currently learning SCSS and practicing React/JS stuff
+:horse: I currently practice React JS.
 
 #### :phone: You can contact me via [VK](https://vk.com/time_to_mention_me)
 
