@@ -4,6 +4,7 @@
 ### :sunglasses: My Tech Stack:
 - HTML5
 - CSS3
+- SVG animations
 - SCSS
 - JS ES6
 - JQuery
