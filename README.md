@@ -9,6 +9,7 @@
 - JS ES6
 - JQuery
 - ReactJS
+- Redux
 
 :horse: I currently practice React JS.
 
