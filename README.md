@@ -11,7 +11,7 @@
 - ReactJS
 - Redux
 
-:horse: I currently practice React JS.
+:horse: I currently develop in the field of Backend.
 
 #### :phone: You can contact me via [VK](https://vk.com/time_to_mention_me)
 
