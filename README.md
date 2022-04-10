@@ -8,7 +8,7 @@
 - JQuery
 - ReactJS
 - Redux
-- Jest, Cypress for testing 
+- Jest, Cypress as testing frameworks 
 
 :horse: I currently develop in the field of Backend.
 
