@@ -4,12 +4,12 @@
 ### :sunglasses: My Tech Stack:
 - HTML5
 - CSS3
-- SVG animations
 - SCSS
 - JS ES6
 - JQuery
 - ReactJS
 - Redux
+- Jest, Cypress for testing 
 
 :horse: I currently develop in the field of Backend.
 
