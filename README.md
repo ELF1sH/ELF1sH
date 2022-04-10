@@ -2,8 +2,7 @@
 # I'm front-end developer from Tomsk, Russia :ru:
 
 ### :sunglasses: My Tech Stack:
-- HTML5
-- CSS3
+- HTML5 + CSS3
 - SCSS
 - JS ES6
 - JQuery
