@@ -4,10 +4,11 @@
 ### :sunglasses: My Tech Stack:
 - HTML5 + CSS3
 - SCSS
-- JS ES6
+- JS
 - JQuery
 - ReactJS
-- Redux
+- Redux + Thunk
+- TypeScript + React TypeScript
 - Jest, Cypress as testing frameworks 
 
 :horse: I currently develop in the field of Backend.
