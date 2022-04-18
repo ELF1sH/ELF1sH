@@ -9,7 +9,6 @@
 - ReactJS
 - Redux + Thunk
 - TypeScript + React TypeScript
-- Jest, Cypress as testing frameworks 
 
 :horse: I currently develop in the field of Backend.
 
