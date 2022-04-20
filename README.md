@@ -1,16 +1,22 @@
 ### Hi there 👋 I'm Igor
-# I'm front-end developer from Tomsk, Russia :ru:
+# I'm full stack developer from Tomsk, Russia :ru:
 
 ### :sunglasses: My Tech Stack:
+#### Frontend
 - HTML5 + CSS3
 - SCSS
+- Bootstrap
 - JS
 - JQuery
-- ReactJS
+- React
 - Redux + Thunk
 - TypeScript + React TypeScript
+- Vue.js
 
-:horse: I currently develop in the field of Backend.
+#### Backend
+- C# ASP.NET, MVC, Web API
+- PHP
+- SQL
 
 #### :phone: You can contact me via [VK](https://vk.com/time_to_mention_me)
 
