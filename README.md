@@ -11,7 +11,7 @@
 - React
 - Redux + Thunk
 - TypeScript + React TypeScript
-- Vue.js
+- Vue.js + Vuex
 
 #### Backend
 - C# ASP.NET Core, MVC, Web API, EF
