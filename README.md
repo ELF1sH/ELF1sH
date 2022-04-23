@@ -14,7 +14,7 @@
 - Vue.js
 
 #### Backend
-- C# ASP.NET, MVC, Web API
+- C# ASP.NET Core, MVC, Web API, EF
 - PHP
 - SQL
 
