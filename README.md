@@ -9,8 +9,10 @@
 - JS
 - JQuery
 - React
-- Redux + Thunk
 - TypeScript + React TypeScript
+- Redux + Thunk + Redux Toolkit
+- Mobx
+- MUI, Chakra
 - Vue.js + Vuex
 
 #### Backend
