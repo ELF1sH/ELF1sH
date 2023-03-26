@@ -22,6 +22,10 @@
 
 #### :phone: You can contact me via [VK](https://vk.com/time_to_mention_me)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELF1sH&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELF1sH&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ray-Janson/Ray-Janson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
