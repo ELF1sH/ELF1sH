@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Igor
-# I'm full stack developer from Tomsk, Russia
+# I'm a full stack developer from Tomsk, Russia
 
 ### :sunglasses: My Tech Stack:
 #### Frontend
